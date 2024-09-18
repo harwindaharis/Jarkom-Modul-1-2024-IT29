@@ -26,6 +26,8 @@
 
 sumber
 
+![Screenshot 2024-09-19 011914](https://github.com/user-attachments/assets/c8c8cd35-6c12-45ad-8cb7-e86066a8db16)
+
 ![Screenshot 2024-09-19 011449](https://github.com/user-attachments/assets/355f7972-71b7-4ce1-a821-cd584e68ec09)
 
 IP : 172.21.88.207
