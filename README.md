@@ -24,6 +24,10 @@
 
 ### Ilegal Breakthrough
 
+sumber
+
+![Screenshot 2024-09-19 011449](https://github.com/user-attachments/assets/355f7972-71b7-4ce1-a821-cd584e68ec09)
+
 IP : 172.21.88.207
 
 Port : 1917
@@ -38,6 +42,8 @@ Flag : JarkomIT{d34th_fr0m_th3_sky_lKy1BboESFfnn3zjhhUIFiP2gH1ANR6wqOfenMZ52VRyl
 
 
 ### Rizzset 
+
+![Screenshot 2024-09-19 011637](https://github.com/user-attachments/assets/6fd41725-e9f9-4de3-9400-7b9ef1cbdfbc)
 
 Domain : www.its.ac.id
 
