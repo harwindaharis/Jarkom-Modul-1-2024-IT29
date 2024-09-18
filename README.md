@@ -22,4 +22,79 @@
 - kemudian masukkan pada nc dan dapatkan Flagnya
 <img width="473" alt="image" src="https://github.com/user-attachments/assets/d53a21e9-045e-4e55-939f-e29802960711">
 
+### Ilegal Breakthrough
+
+IP : 172.21.88.207
+
+Port : 1917
+
+Endpoint : /ww1.php
+
+Tools : ffuf-v2.1.0-dev
+
+username : password = Redbaron:fly1ng4c3
+
+Flag : JarkomIT{d34th_fr0m_th3_sky_lKy1BboESFfnn3zjhhUIFiP2gH1ANR6wqOfenMZ52VRyl9MpkDVoWW1}
+
+
+### Rizzset 
+
+Domain : www.its.ac.id
+
+IP Domain :  103.94.189.5
+
+JARM Fingerpront : 2ad2ad16d2ad2ad22c2ad2ad2ad2ad74aaecca9f9c4a3303863dfee62b241e
+
+Flag : JarkomIT{Dn5_C0rR34t10n_HzR2WyVLF2AIsEY8T4OOcG91Dr1zZQCGzyNcMah0otP08WTPjZDFQE1T5}
+
+
+### Gajah Terbang (Server Recon)
+
+DBMS : PostgreSQL
+
+Port : 6969
+
+OS : Debian
+
+credentials username DBMS : s1gm4
+
+nama database : sigmaskibidigyatrizzzz
+
+berapa banyak users dalam database : 4
+
+email yang digunakan oleh admin : jojohermawan@gmail.com
+
+password admin : admin1234
+
+Flag : JarkomIT{Gy4tT_M5g_4U_NM7KknbO9OYnH5ZARGyhmIIUR5k1V027ipezzm7Z8iuOeSU4zWvMFBiD1}
+
+
+### Gajah Terbang (Attacker Recon)
+
+Akun apa yang dimiliki oleh penyerang dalam database :  kuntoajiisrillll@gmail.com
+
+password yang digunakan oleh penyerang : kissme
+
+tanggal akun penyerang diban : 2024-06-09
+
+Table apa saja yang dimodifikasi : users dan banned_users
+
+Barang apa saja yang telah dibeli : rokok dan es krim
+
+Berapa total transaksi : 24500
+
+Flag : JarkomIT{G4jaH_K0k_t3RbaNG_GIgtXO5N9fGsYhpTTzBYcPPFeYntdKQoukw8fXXOU617467GQP4yVKt5}
+
+
+### 22 Nightmare
+
+File yang dikirim : Sh1k4.jpg
+
+nama file yang dikirim : NUN
+
+stream keberapa file kedua dikirim setelah file pertama : 141
+
+Siapa asli nama pengirim : Torako Koshi
+
+Flag : JarkomIT{Sh1k4n0ko_N0_k05h1tan_89CzvYufccSOHIP6SQUDGbVhw7Anzrep8F3fgKbKhAC50nYU39eXqUNU}
 
