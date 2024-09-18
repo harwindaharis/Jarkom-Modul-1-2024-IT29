@@ -117,7 +117,16 @@ Flag : JarkomIT{G4jaH_K0k_t3RbaNG_GIgtXO5N9fGsYhpTTzBYcPPFeYntdKQoukw8fXXOU61746
 ![Screenshot 2024-09-19 013932](https://github.com/user-attachments/assets/f6f7bf0d-a02e-40f3-9060-d3415781acd9)
 
 
-File yang dikirim : Sh1k4.jpg### Pegawai Negeri Sebelah
+File yang dikirim : Sh1k4.jpg
+nama file yang dikirim : NUN
+
+stream keberapa file kedua dikirim setelah file pertama : 141
+
+Siapa asli nama pengirim : Torako Koshi
+
+Flag : JarkomIT{Sh1k4n0ko_N0_k05h1tan_89CzvYufccSOHIP6SQUDGbVhw7Anzrep8F3fgKbKhAC50nYU39eXqUNU}
+
+### Pegawai Negeri Sebelah
 - buka package yang telah diberikan
 - buka package dengan wireshark
 - cari file yang mberkemungkinan terdapat clue
@@ -156,12 +165,5 @@ File yang dikirim : Sh1k4.jpg### Pegawai Negeri Sebelah
 
 
 
-nama file yang dikirim : NUN
-
-stream keberapa file kedua dikirim setelah file pertama : 141
-
-Siapa asli nama pengirim : Torako Koshi
-
-Flag : JarkomIT{Sh1k4n0ko_N0_k05h1tan_89CzvYufccSOHIP6SQUDGbVhw7Anzrep8F3fgKbKhAC50nYU39eXqUNU}
 
 
