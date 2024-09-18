@@ -117,7 +117,44 @@ Flag : JarkomIT{G4jaH_K0k_t3RbaNG_GIgtXO5N9fGsYhpTTzBYcPPFeYntdKQoukw8fXXOU61746
 ![Screenshot 2024-09-19 013932](https://github.com/user-attachments/assets/f6f7bf0d-a02e-40f3-9060-d3415781acd9)
 
 
-File yang dikirim : Sh1k4.jpg
+File yang dikirim : Sh1k4.jpg### Pegawai Negeri Sebelah
+- buka package yang telah diberikan
+- buka package dengan wireshark
+- cari file yang mberkemungkinan terdapat clue
+- lalu jawab nc yang telah diberikan dan dapatkan flagnya
+  <img width="474" alt="image" src="https://github.com/user-attachments/assets/90a5b0d1-5214-49f5-8f21-3a1b8f9e8294">
+
+### EZ
+- buka package yang telah diberikan
+- buka package dengan wireshark
+- cari file yang mberkemungkinan terdapat clue
+- lalu jawab nc yang telah diberikan dan dapatkan flagnya
+  <img width="476" alt="image" src="https://github.com/user-attachments/assets/7c4c9917-1a7a-46e3-aa51-a1f0e49ac699">
+
+### FTP Login
+- buka package yang telah diberikan
+- buka package dengan wireshark
+- cari file yang mberkemungkinan terdapat clue
+- lalu jawab nc yang telah diberikan dan dapatkan flagnya
+  <img width="476" alt="image" src="https://github.com/user-attachments/assets/9d267fbd-29ca-4a7d-a9d3-7293f05caf5a">
+
+### Surprise
+- buka package yang telah diberikan
+- buka package dengan wireshark
+- cari file yang mberkemungkinan terdapat clue
+- lalu jawab nc yang telah diberikan dan dapatkan flagnya
+<img width="475" alt="image" src="https://github.com/user-attachments/assets/b9d46e4b-a67b-4e3e-b3dd-8586dff0d9be">
+<img width="473" alt="image" src="https://github.com/user-attachments/assets/9c23947b-ae70-4659-8f26-fd1bae95fceb">
+
+### Corporate Breach
+- buka package yang telah diberikan
+- buka package dengan wireshark
+- cari file yang mberkemungkinan terdapat clue
+- lalu jawab nc yang telah diberikan dan dapatkan flagnya
+<img width="473" alt="image" src="https://github.com/user-attachments/assets/a2ef5807-77f6-4c71-be07-f54d295d6b34">
+
+
+
 
 nama file yang dikirim : NUN
 
@@ -126,4 +163,5 @@ stream keberapa file kedua dikirim setelah file pertama : 141
 Siapa asli nama pengirim : Torako Koshi
 
 Flag : JarkomIT{Sh1k4n0ko_N0_k05h1tan_89CzvYufccSOHIP6SQUDGbVhw7Anzrep8F3fgKbKhAC50nYU39eXqUNU}
+
 
