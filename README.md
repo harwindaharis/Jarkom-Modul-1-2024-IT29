@@ -60,6 +60,11 @@ Flag : JarkomIT{Dn5_C0rR34t10n_HzR2WyVLF2AIsEY8T4OOcG91Dr1zZQCGzyNcMah0otP08WTPj
 
 ### Gajah Terbang (Server Recon)
 
+![Screenshot 2024-09-19 012531](https://github.com/user-attachments/assets/4bec1a6c-e1fa-41e9-954b-0490c8595cf9)
+
+![Screenshot 2024-09-19 012613](https://github.com/user-attachments/assets/1fa16b6a-79ac-4c11-8017-cded23cbc619)
+
+
 DBMS : PostgreSQL
 
 Port : 6969
@@ -74,16 +79,21 @@ berapa banyak users dalam database : 4
 
 email yang digunakan oleh admin : jojohermawan@gmail.com
 
-password admin : admin1234
+password admin : admin1234 dari c93ccd78b2076528346216b3b2f701e6 (MD5)
 
 Flag : JarkomIT{Gy4tT_M5g_4U_NM7KknbO9OYnH5ZARGyhmIIUR5k1V027ipezzm7Z8iuOeSU4zWvMFBiD1}
 
 
 ### Gajah Terbang (Attacker Recon)
 
+![Screenshot 2024-09-19 012531](https://github.com/user-attachments/assets/4bec1a6c-e1fa-41e9-954b-0490c8595cf9)
+
+![Screenshot 2024-09-19 012613](https://github.com/user-attachments/assets/1fa16b6a-79ac-4c11-8017-cded23cbc619)
+
+
 Akun apa yang dimiliki oleh penyerang dalam database :  kuntoajiisrillll@gmail.com
 
-password yang digunakan oleh penyerang : kissme
+password yang digunakan oleh penyerang : kissme dari aa1cbddbb1667f7227bcfdb25772f85c (MD5)
 
 tanggal akun penyerang diban : 2024-06-09
 
