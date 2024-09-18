@@ -108,6 +108,11 @@ Flag : JarkomIT{G4jaH_K0k_t3RbaNG_GIgtXO5N9fGsYhpTTzBYcPPFeYntdKQoukw8fXXOU61746
 
 ### 22 Nightmare
 
+![Screenshot 2024-09-19 013726](https://github.com/user-attachments/assets/206ca52b-956e-441d-9622-548177eca93f)
+
+![Screenshot 2024-09-19 013932](https://github.com/user-attachments/assets/f6f7bf0d-a02e-40f3-9060-d3415781acd9)
+
+
 File yang dikirim : Sh1k4.jpg
 
 nama file yang dikirim : NUN
