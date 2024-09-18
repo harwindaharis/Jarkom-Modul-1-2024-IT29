@@ -45,6 +45,8 @@ Flag : JarkomIT{d34th_fr0m_th3_sky_lKy1BboESFfnn3zjhhUIFiP2gH1ANR6wqOfenMZ52VRyl
 
 ### Rizzset 
 
+![Screenshot 2024-09-19 012100](https://github.com/user-attachments/assets/3ba58c86-5140-4383-a81c-3b7344571dc0)
+
 ![Screenshot 2024-09-19 011637](https://github.com/user-attachments/assets/6fd41725-e9f9-4de3-9400-7b9ef1cbdfbc)
 
 Domain : www.its.ac.id
