@@ -365,6 +365,66 @@ Flag : JarkomIT{Sh1k4n0ko_N0_k05h1tan_89CzvYufccSOHIP6SQUDGbVhw7Anzrep8F3fgKbKhA
     
  </details>
 
+
+### Stegography
+- Tampilan nc dan berhasil mendapatkan Flagnya
+![image](https://github.com/user-attachments/assets/590840cc-356f-4cf7-b918-e0c874418317)
+![Screenshot 2024-09-22 060559](https://github.com/user-attachments/assets/6c50b4b4-da3f-4043-888f-22971a02ace6)
+
+<details>
+<summary>Berikut Tahapannya</summary>
+  - Buka package image.pcap
+    
+   ![image](https://github.com/user-attachments/assets/11e174bf-c746-4155-b631-d8c160183cfd)
+
+  *terdapat tulisan nama yang bisa dijawab pada nc*
+    
+    
+  - filter packge “http” 
+    
+   ![image](https://github.com/user-attachments/assets/b2bdb9ef-285b-48f7-99b5-8878aa2708da)
+   
+
+  - tanggal mengapload webshell
+    
+   ![image](https://github.com/user-attachments/assets/d417d2b2-3ad9-4493-abde-e040b559a627)
+
+   *terdapat tanggal dan jamnya tetapi masih daalam bentuk GMT(+7 WIB)*
+
+
+   - Domain_hostname
+
+   ![image]![Screenshot 2024-09-22 022714](https://github.com/user-attachments/assets/a4725f62-a4a7-41bb-a8a6-e3867b408bfa)
+
+   *hostname = server_app*
+   
+
+   - Nama webshell yang diupload
+
+   ![image](https://github.com/user-attachments/assets/641b9d54-edb5-4257-ab03-883781437632)
+   
+
+   - Command pertama yang berhasil
+
+   ![image](https://github.com/user-attachments/assets/82f760fe-eb45-45bd-a89c-34f649fe5265)
+   
+     
+   - pesan yang dituliskan pesan
+     
+   ![image](https://github.com/user-attachments/assets/53567ca7-229e-48cc-96fe-9d915e4a9e8a)
+
+   *enkripsi base64*
+
+   ![image](https://github.com/user-attachments/assets/edde590b-61d7-4d5b-baa4-177f663145ec)
+   ![image](https://github.com/user-attachments/assets/359b862c-94f3-4273-adae-288f255d9ea6)
+
+   *output = pls rate soal ini*
+   
+ 
+ ⛳ **JarkomIT{P4L1nG_g4mPaNg_An4L1sA_W3b_aTk_fp6Bl4Mt44NZK8veYh1EDgjh2W4iRmJzbdnHUSHisdRqtJlAW9gpjRCE}**
+    
+ </details>
+
   
 
 
