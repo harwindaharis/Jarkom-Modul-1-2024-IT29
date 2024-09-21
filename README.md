@@ -127,9 +127,27 @@ Flag : JarkomIT{G4jaH_K0k_t3RbaNG_GIgtXO5N9fGsYhpTTzBYcPPFeYntdKQoukw8fXXOU61746
 
 File yang dikirim : Sh1k4.jpg
 
+untuk mendapatkan nama file :
+
+- export file dari paket
+
+- 
+  
+- buka file Sh1k4.jpg
+
+- 
+
 nama file yang dikirim : NUN
 
+
+
 stream keberapa file kedua dikirim setelah file pertama : 141
+
+untuk mendapatkan nama asli pengirim :
+
+-
+
+-
 
 Siapa asli nama pengirim : Torako Koshi
 
