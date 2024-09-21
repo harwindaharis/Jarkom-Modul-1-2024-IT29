@@ -174,8 +174,92 @@ Siapa asli nama pengirim : Torako Koshi
 
 Flag : JarkomIT{Sh1k4n0ko_N0_k05h1tan_89CzvYufccSOHIP6SQUDGbVhw7Anzrep8F3fgKbKhAC50nYU39eXqUNU}
 
+
 ### Pegawai Negeri Sebelah
+- Tampilan nc dan mendapatkan Flagnya
+  ![image](https://github.com/user-attachments/assets/ef8f1528-8c93-44a2-b012-88e596482d08)
+
+<details>
+  <summary>Berikut Tahapannya</summary>
+- Buka package Rahasia.pcap
+  
+  ![image](https://github.com/user-attachments/assets/2bbc316d-f6fa-4e43-8519-d942c74d6c75)
+  
+  *pada package 47, terdapat semua data yang bisa dijawab pada nc*
+
+⛳ **JarkomIT{Tum8eN_p45SnYa_Ku4t_B1aS4Nya_vcBRw42hH9MQusu1gPINKxmdjL32DSVAkEVPrmOXDFoxadjF2usOM4h}** 
+</details>
+
+### EZ
+- Tampilan nc dan mendapatkan Flagnya
+![image](https://github.com/user-attachments/assets/53497418-688e-4944-aab9-43c9d72db46a)
+
+<details>
+  <summary>Berikut Tahapannya</summary>
+    - Buka package ez.pcapng
+  
+   ![image](https://github.com/user-attachments/assets/02d77fe0-2b82-43f8-908d-8339dac8bd1f)
+   
+  *pada file 1144, terdapat semua data yang bisa dijawab pada nc (string sebelah kanan atau folow tcp dan port sebelah kiri yang “Dsrt Port”*
+    
+⛳ **JarkomIT{BiAr_aman_Pake_sSh_FcBhHi1CtvVTsl4RU5TEZBDMf3ztj4ewG6eXUlZK8CxmQMbsGtTpEZ}**
+</details>
+
+
+### FTP Login
+- Tampilan nc dan berhasil mendapatkan Flagnya
+![image](https://github.com/user-attachments/assets/66d08b37-c121-4da9-90b3-859efcae508c)
+
+<details>
+<summary>Berikut Tahapannya</summary>
+    - Buka package ftplogin.pcapng
+    
+   ![image](https://github.com/user-attachments/assets/63879f0e-3537-4bce-a675-3351ba4f1f01)
+   
+  *pada file 222 (warananya beda sendiri) follow TCP dan dapatkan jawaban dari nc lalu dapatkan Flagnya*
+    
+⛳ **JarkomIT{n0t_s0_s3cur3_ftp_wZlZOhaA92SsDyrMWlUyq29v4L0wFzPnFVNli8t4gstnQP72pOzRG1N}**
+ </details>   
+
+
+### Surpise
+- Tampilan nc dan berhasil mendapatkan Flagnya
+![image](https://github.com/user-attachments/assets/37b4c11d-99a1-4425-998b-00fe395ff30c)
+![image](https://github.com/user-attachments/assets/f4de1488-869d-4b7b-95fd-ddb531a9f7cf)
+
+<details>
+  <summary>Berikut Tahapannya</summary>
+  - Buka package ftplogin.pcapng
+    
+   ![image](https://github.com/user-attachments/assets/742685ba-0f25-4927-b4fe-505ea88d94ef)
+  
+  *pada file 234  follow TCP dan dapatkan jawaban dari nc ( service yang digunakan bagian atas banget)  file yang dikirmkan yaitu g0tcha*
+    
+  - Buka file 243
+      
+    ![image](https://github.com/user-attachments/assets/13ad3c5f-f7f0-4b8c-898b-bc2248ef24e6)
+      
+     *pada file terdapat code cpp.* 
+    
+ - compile dan dapatkan pesannya untuk menjawab nc
+  
+    ![image](https://github.com/user-attachments/assets/a61730af-4af2-4e7d-965b-a7e7512b3f1e)
+      
+⛳ **JarkomIT{l1ttl3_m0us3_1n_th3_h0us3_Z5rnnFeArDKwivWLUu8GpXt6fG0u5g4Q67IfcPaRcB2QFThtmzR1TCHU}**
+   </details> 
+  
+
+
+
+
+
+    
+  
+### Pegawai Negeri Sebelah
+- Tampilan nc dan berhasil mendapatkan Flagnya
+  
 - buka package yang telah diberikan
+  
 - buka package dengan wireshark
 - cari file yang mberkemungkinan terdapat clue
 - lalu jawab nc yang telah diberikan dan dapatkan flagnya
