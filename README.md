@@ -4,7 +4,6 @@
 1. **Harwinda** - 5027231079
 2. **Muhammad Syahmi Ash Shidqi** - 5027231085
 
-## Write Up
 
 ### Advance Sanity Check
 - membuka file dan mencari jawaban dari nc yaitu username dari pengirim, lalu follow TCP STREAM
@@ -234,6 +233,7 @@ Flag : JarkomIT{Sh1k4n0ko_N0_k05h1tan_89CzvYufccSOHIP6SQUDGbVhw7Anzrep8F3fgKbKhA
    ![image](https://github.com/user-attachments/assets/742685ba-0f25-4927-b4fe-505ea88d94ef)
   
   *pada file 234  follow TCP dan dapatkan jawaban dari nc ( service yang digunakan bagian atas banget)  file yang dikirmkan yaitu g0tcha*
+  
     
   - Buka file 243
       
@@ -247,52 +247,62 @@ Flag : JarkomIT{Sh1k4n0ko_N0_k05h1tan_89CzvYufccSOHIP6SQUDGbVhw7Anzrep8F3fgKbKhA
       
 ⛳ **JarkomIT{l1ttl3_m0us3_1n_th3_h0us3_Z5rnnFeArDKwivWLUu8GpXt6fG0u5g4Q67IfcPaRcB2QFThtmzR1TCHU}**
    </details> 
-  
 
 
+  ### Packets Barrage
 
-
-
-    
-  
-### Pegawai Negeri Sebelah
 - Tampilan nc dan berhasil mendapatkan Flagnya
-  
-- buka package yang telah diberikan
-  
-- buka package dengan wireshark
-- cari file yang mberkemungkinan terdapat clue
-- lalu jawab nc yang telah diberikan dan dapatkan flagnya
-  <img width="474" alt="image" src="https://github.com/user-attachments/assets/90a5b0d1-5214-49f5-8f21-3a1b8f9e8294">
+![image](https://github.com/user-attachments/assets/3e0f8525-a29c-4065-bcd8-ae0b9e787574)
 
-### EZ
-- buka package yang telah diberikan
-- buka package dengan wireshark
-- cari file yang mberkemungkinan terdapat clue
-- lalu jawab nc yang telah diberikan dan dapatkan flagnya
-  <img width="476" alt="image" src="https://github.com/user-attachments/assets/7c4c9917-1a7a-46e3-aa51-a1f0e49ac699">
 
-### FTP Login
-- buka package yang telah diberikan
-- buka package dengan wireshark
-- cari file yang mberkemungkinan terdapat clue
-- lalu jawab nc yang telah diberikan dan dapatkan flagnya
-  <img width="476" alt="image" src="https://github.com/user-attachments/assets/9d267fbd-29ca-4a7d-a9d3-7293f05caf5a">
+<details>
+  <summary>Berikut Tahapannya</summary>
+  - Buka package break.pcapng
+    
+  ![image](https://github.com/user-attachments/assets/91e87729-ca95-484d-8a90-6da6a07f843e)
+ 
+ **terdapat tulisan internet protocol Dst:172.21.80.1  dan packet 1917 dari file yang di follow tcp*
 
-### Surprise
-- buka package yang telah diberikan
-- buka package dengan wireshark
-- cari file yang mberkemungkinan terdapat clue
-- lalu jawab nc yang telah diberikan dan dapatkan flagnya
-<img width="475" alt="image" src="https://github.com/user-attachments/assets/b9d46e4b-a67b-4e3e-b3dd-8586dff0d9be">
-<img width="473" alt="image" src="https://github.com/user-attachments/assets/9c23947b-ae70-4659-8f26-fd1bae95fceb">
+ 
+ - export package dan temukan file zip
+
+   ![image](https://github.com/user-attachments/assets/15ba86d0-8ee8-4c7c-8176-af0543e53717)
+   
+   ![image](https://github.com/user-attachments/assets/b93f1c2e-ddab-4a60-bc0b-f380d458103c)
+
+   ![image](https://github.com/user-attachments/assets/b8e0b47a-f74d-4de7-86c7-d22ec2bec3b1)
+
+    **pada zip juga terdapat isi yang menjadi jawaban pada ncnya, masukkan dan dapatkan flagnya*
+
+
+⛳ **JarkomIT{th3_fly1ng_c1rcus_0f_w4r_sqYQDq8RiVI2UV4DMHfuPtlHf5St1t3F1q1MyVb7l6Myk25i8oQB9ACE}**
+</details>
+
 
 ### Corporate Breach
-- buka package yang telah diberikan
-- buka package dengan wireshark
-- cari file yang mberkemungkinan terdapat clue
-- lalu jawab nc yang telah diberikan dan dapatkan flagnya
-<img width="473" alt="image" src="https://github.com/user-attachments/assets/a2ef5807-77f6-4c71-be07-f54d295d6b34">
+- Tampilan nc dan berhasil mendapatkan Flagnya
+![image](https://github.com/user-attachments/assets/fbc26dff-f0d8-4528-922b-cb713e1cc4af)
+
+<details>
+<summary>Berikut Tahapannya</summary>
+  - Buka package breach.pcapng
+    
+   ![image](https://github.com/user-attachments/assets/11e174bf-c746-4155-b631-d8c160183cfd)
+
+  *terdapat tulisan nama yang bisa dijawab pada nc*
+    
+    
+  - filter packge “http” dan cari yang berbeda “OK tanpa ada htmlnya”
+    
+   ![image](https://github.com/user-attachments/assets/40fe9726-7d8f-4fbf-b8db-b6fc9767e1cb)
+
+  *dapatkan jawabannya dan isi nc dan dapatkan flagnya*
+
+ 
+ ⛳ **JarkomIT{supp0rt_k0k_l3m4h_bg_9iCyPJaxPg6wqPTQkzJUyGI7aG6GRFrReRG2Q0nJlWHcjs60Zp28G6}**
+    
+ </details>
+  
 
 
 
