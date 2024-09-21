@@ -302,6 +302,35 @@ Flag : JarkomIT{Sh1k4n0ko_N0_k05h1tan_89CzvYufccSOHIP6SQUDGbVhw7Anzrep8F3fgKbKhA
  ⛳ **JarkomIT{supp0rt_k0k_l3m4h_bg_9iCyPJaxPg6wqPTQkzJUyGI7aG6GRFrReRG2Q0nJlWHcjs60Zp28G6}**
     
  </details>
+
+## Revisi 
+
+- Kurangnya langkah-langkah dalam pengerjaan soal
+
+### inneRCE
+- Tampilan nc dan berhasil mendapatkan Flagnya
+![image](https://github.com/user-attachments/assets/94cc96fa-3b9b-4e92-a3e6-6613b28da1f2)
+
+<details>
+<summary>Berikut Tahapannya</summary>
+  - Buka package innerRCE.pcapng
+    
+   ![image](https://github.com/user-attachments/assets/11e174bf-c746-4155-b631-d8c160183cfd)
+
+  *terdapat tulisan nama yang bisa dijawab pada nc*
+    
+    
+  - filter packge “http” 
+    
+   ![image](https://github.com/user-attachments/assets/40fe9726-7d8f-4fbf-b8db-b6fc9767e1cb)
+
+  *dapatkan jawabannya dan isi nc dan dapatkan flagnya*
+
+ 
+ ⛳ **JarkomIT{P4L1nG_g4mPaNg_An4L1sA_W3b_aTk_fp6Bl4Mt44NZK8veYh1EDgjh2W4iRmJzbdnHUSHisdRqtJlAW9gpjRCE}**
+    
+ </details>
+
   
 
 
