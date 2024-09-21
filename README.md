@@ -313,14 +313,7 @@ Flag : JarkomIT{Sh1k4n0ko_N0_k05h1tan_89CzvYufccSOHIP6SQUDGbVhw7Anzrep8F3fgKbKhA
 
 <details>
 <summary>Berikut Tahapannya</summary>
-  - Buka package innerRCE.pcapng
-    
-   ![image](https://github.com/user-attachments/assets/11e174bf-c746-4155-b631-d8c160183cfd)
-
-  *terdapat tulisan nama yang bisa dijawab pada nc*
-    
-    
-  - filter packge “http” 
+  - Buka package innerRCE.pcapng dan filter packge “http” 
     
    ![image](https://github.com/user-attachments/assets/b2bdb9ef-285b-48f7-99b5-8878aa2708da)
    
@@ -439,7 +432,7 @@ Flag : JarkomIT{Sh1k4n0ko_N0_k05h1tan_89CzvYufccSOHIP6SQUDGbVhw7Anzrep8F3fgKbKhA
    rebis
   ```
 
-   *balik pesan tersebut supaya terbaca untuk menjawan pd nc*
+   *balik pesan tersebut supaya terbaca untuk menjawab pd nc*
 
    hasilnya = pahlawan keamanan siber
 
