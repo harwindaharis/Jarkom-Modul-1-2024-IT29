@@ -53,7 +53,13 @@ Domain : www.its.ac.id
 
 IP Domain :  103.94.189.5
 
-JARM Fingerpront : 2ad2ad16d2ad2ad22c2ad2ad2ad2ad74aaecca9f9c4a3303863dfee62b241e
+untuk melakukan JARM :
+
+-Install python
+-Download jarm.py pada https://github.com/salesforce/jarm/blob/master/jarm.py
+
+
+JARM Fingerprint : 2ad2ad16d2ad2ad22c2ad2ad2ad2ad74aaecca9f9c4a3303863dfee62b241e
 
 Flag : JarkomIT{Dn5_C0rR34t10n_HzR2WyVLF2AIsEY8T4OOcG91Dr1zZQCGzyNcMah0otP08WTPjZDFQE1T5}
 
