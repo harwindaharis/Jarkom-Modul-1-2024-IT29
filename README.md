@@ -57,6 +57,7 @@ untuk melakukan JARM :
 
 -Install python
 -Download jarm.py pada https://github.com/salesforce/jarm/blob/master/jarm.py
+![Screenshot 2024-09-21 160248](https://github.com/user-attachments/assets/3516a6e5-42d8-4223-b9b9-5e58fd8d938a)
 
 
 JARM Fingerprint : 2ad2ad16d2ad2ad22c2ad2ad2ad2ad74aaecca9f9c4a3303863dfee62b241e
@@ -124,6 +125,7 @@ Flag : JarkomIT{G4jaH_K0k_t3RbaNG_GIgtXO5N9fGsYhpTTzBYcPPFeYntdKQoukw8fXXOU61746
 
 
 File yang dikirim : Sh1k4.jpg
+
 nama file yang dikirim : NUN
 
 stream keberapa file kedua dikirim setelah file pertama : 141
