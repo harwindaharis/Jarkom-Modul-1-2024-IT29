@@ -53,7 +53,7 @@ Domain : www.its.ac.id
 
 IP Domain :  103.94.189.5
 
-untuk melakukan JARM :
+untuk melakukan JARM =
 
 -Install python
 
@@ -127,27 +127,48 @@ Flag : JarkomIT{G4jaH_K0k_t3RbaNG_GIgtXO5N9fGsYhpTTzBYcPPFeYntdKQoukw8fXXOU61746
 
 File yang dikirim : Sh1k4.jpg
 
-untuk mendapatkan nama file :
+untuk mendapatkan nama file =
 
 - export file dari paket
 
-- 
+-![Screenshot 2024-09-21 161316](https://github.com/user-attachments/assets/4cf48182-7b3d-4f8a-a711-8f75a02445ba)
   
 - buka file Sh1k4.jpg
 
-- 
+- ![Sh1k4](https://github.com/user-attachments/assets/459e4eb5-3299-423f-995c-09330afd66d7)161316](https://github.com/user-attachments/assets/55e08879-142f-46a8-a804-1a8cc96ef93e)
 
 nama file yang dikirim : NUN
 
+mencari file ke-2 =
 
+- gunakan filter `tcp contains "STOR"`
+
+![Screenshot 2024-09-21 162013](https://github.com/user-attachments/assets/b685972e-7b6b-44b3-b0d9-c9fa329a64a9)
 
 stream keberapa file kedua dikirim setelah file pertama : 141
 
 untuk mendapatkan nama asli pengirim :
 
--
+- Buka file noko.py yg telah di export
+  
+- isi file
+```
+Import Shika
 
--
+Class Noko
+    input = int
+    key = String
+    value = String
+    
+    # input = 001001100011010000100010001000100011101001101110001001110011100001101110000110100011101000111100001011110011111000100001011011100001111000100001001111010011110100100111
+    
+    key = jpg msg
+    
+    op xor bit
+```
+
+
+- jalankan filenya
 
 Siapa asli nama pengirim : Torako Koshi
 
