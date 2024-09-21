@@ -56,6 +56,7 @@ IP Domain :  103.94.189.5
 untuk melakukan JARM :
 
 -Install python
+
 -Download jarm.py pada https://github.com/salesforce/jarm/blob/master/jarm.py
 ![Screenshot 2024-09-21 160248](https://github.com/user-attachments/assets/3516a6e5-42d8-4223-b9b9-5e58fd8d938a)
 
