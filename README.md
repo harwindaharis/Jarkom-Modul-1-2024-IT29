@@ -167,7 +167,9 @@ Class Noko
 ```
 
 
-- jalankan filenya
+- decode XOR with key = 'nun'
+
+  
 
 Siapa asli nama pengirim : Torako Koshi
 
@@ -327,7 +329,7 @@ Flag : JarkomIT{Sh1k4n0ko_N0_k05h1tan_89CzvYufccSOHIP6SQUDGbVhw7Anzrep8F3fgKbKhA
 
    - Domain_hostname
 
-   ![image]![Screenshot 2024-09-22 022714](https://github.com/user-attachments/assets/a4725f62-a4a7-41bb-a8a6-e3867b408bfa)
+   ![image](https://github.com/user-attachments/assets/a4725f62-a4a7-41bb-a8a6-e3867b408bfa)
 
    *hostname = server_app*
    
